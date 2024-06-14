@@ -123,7 +123,7 @@
     },
     "trilogy": {
       "tooltip": "&quot;1, 2, 3&quot;",
-      "content": "<p>A 'trilogy' designed by yours truly named '1, 2, 3' consisting of HAL 9000, T-800 and Predator (<a href=\"https://imgur.com/a/7RSnSBj\">Download</a>)</p>"
+      "content": "<p>A 'trilogy' designed by yours truly named '1, 2, 3' consisting of <a href=\"img\/wallart\/1.jpg\">HAL 9000</a>, <a href=\"img\/wallart\/2.jpg\">T-800</a> and <a href=\"img\/wallart\/3.jpg\">Predator</a></p>"
     },
     "lightswitch": {
       "tooltip": "Light switch"
